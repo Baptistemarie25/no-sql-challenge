@@ -8,6 +8,8 @@ This application requires Express.js and Mongoose.
 
 ## Video
 
+[Video](https://drive.google.com/file/d/1dE-S20kQ5P9N5g22smjaoU9WvM1yMdkO/view)
+
 ## Link 
 
 [GitHub](https://github.com/Baptistemarie25/no-sql-challenge)
